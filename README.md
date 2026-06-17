@@ -1,8 +1,8 @@
-## IS FORK original by caballetta https://github.com/cabaletta/baritone/
+## IS FORK original by cabaletta https://github.com/cabaletta/baritone/
 about fork:
   "#mine" or other prefix now got priority for selection, if u need add more settings do a pull request
   IS FORK IS NOT ORIGINAL baritone
-  original by caballeta :3
+  original by cabaletta :3
 # Baritone
 <p align="center">
   <a href="https://github.com/cabaletta/baritone/releases/"><img src="https://img.shields.io/github/downloads/cabaletta/baritone/total.svg" alt="GitHub All Releases"/></a>
