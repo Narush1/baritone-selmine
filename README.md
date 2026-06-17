@@ -1,4 +1,4 @@
-## IS FORK original by caballetta https://github.com/Narush1/baritone-selmine/edit/main/README.md
+## IS FORK original by caballetta https://github.com/cabaletta/baritone/
 # Baritone
 <p align="center">
   <a href="https://github.com/cabaletta/baritone/releases/"><img src="https://img.shields.io/github/downloads/cabaletta/baritone/total.svg" alt="GitHub All Releases"/></a>
